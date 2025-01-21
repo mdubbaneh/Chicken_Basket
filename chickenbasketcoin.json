@@ -3,7 +3,6 @@
   "symbol": "CB",
   "description": "Crypto reward token for Chicken Basket in Gaithersburg, Maryland.",
   "image": "https://github.com/mdubbaneh/Chicken_Basket/blob/86617c1113b2739dca8d9bc9b9884fae2149b137/Chicken%20Basket%20(logo).png",
-  "extensions": {
-    "website": "chickenbasketmoco.com"
-  }
+  "external_url": "chickenbasketmoco.com"
+  
 }
